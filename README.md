@@ -13,4 +13,4 @@ To run just install PyGame
 
 ![Image](example-uk.png)
 ![Image](example-slide.png)
-![Image](example-earth.png
+![Image](example-earth.png)
