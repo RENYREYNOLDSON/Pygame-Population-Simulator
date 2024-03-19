@@ -10,3 +10,7 @@ To run just install PyGame
 ~~~
 
 ## Gallery
+
+![Image](example-uk.png)
+![Image](example-slide.png)
+![Image](example-earth.png
